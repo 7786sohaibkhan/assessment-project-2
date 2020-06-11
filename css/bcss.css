@@ -1,0 +1,130 @@
+#wrapper
+{
+  font-family:tahoma;
+}
+
+
+
+
+#subheader {
+	width:100%;
+	height:30px;
+	background:black;
+	color:black;
+	margin-top:-15px;	
+}
+#subheader p {
+	float:left;
+	margin-top:7px;
+}
+
+#main-header {
+	width: 100%;
+	height: 100px;
+	background:burlywood;
+	float:left;
+	margin-top:-15px;
+}
+#logo {
+    width:250px;
+    margin-top:10x;
+    float:left;
+}
+#ist {
+    color:cadetblue;
+    font-size:40px;
+    font-weight:bold;
+    margin-left:20px;
+    font-family:cursive; 
+
+}
+
+#search {
+    width: 650px;
+    float: left;
+    padding: 20px;
+    margin-left:50px;
+}
+.search-area {
+    width: 550px;
+    height: 40px;
+    background: #fff;
+    float:left;
+    padding-left: 15px;
+}
+.search-btn {
+    width: 80px;
+    height: 40px;
+    border: none;
+    color: #fff;
+    background: cadetblue;
+    margin-left: -80.1px;
+}
+
+#user-menu {
+    width: 200px;
+    float: right;
+    margin-top: 20px;
+}
+#user-menu li {
+    float:left;
+    width: 149px;
+    text-align: center;
+    list-style: none;
+    font-size:20px;
+    border-left:1px solid black;
+}
+#user-menu li:hover {
+    font-size:30px;
+    trasition: all .5s ease;
+}
+#user-menu li a {
+    color:black;
+    text-decoration:none;
+}
+
+#navigation {
+    width: 100%;
+    height: 35px;
+    background: cadetblue;;
+    float: left;
+}
+
+nav {
+    width: 1280px;
+    margin: 0 auto;
+}
+nav a{
+    margin-left: 175px;
+    line-height: 35px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: green;
+    transition: all .7s ease;
+}
+
+
+
+p{
+  font-size: larger;
+
+  color: midnightblue;
+  font-style: italic;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.submit {
+  width: 200px;
+  height: 60px;
+  margin-top: 10px;
+  border: none;
+  color: #fff;
+  background: seagreen;
+  margin-left:10px;
+}
+
+
